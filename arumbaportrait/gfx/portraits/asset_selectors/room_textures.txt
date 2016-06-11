@@ -7,7 +7,9 @@ room_selector = {
 	game_setup = {	
 		default = "ethic_pacifist_room"
 		
-		"transhuman_room" = { species_portrait = human }
+	#	"transhuman_room" = {owner = {is_species = human}}
+	#	"transhuman_room" = {owner = {graphical_culture= reptilian_01}}
+		"transhuman_room" = {graphical_culture= reptilian_01}
 		"ethic_collectivist_room" = { has_ethic = ethic_fanatic_collectivist }
 		"ethic_individualist_room" = { has_ethic = ethic_fanatic_individualist }
 		"ethic_materialist_room" = { has_ethic = ethic_fanatic_materialist }
