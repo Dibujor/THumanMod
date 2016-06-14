@@ -1,15 +1,15 @@
 # This is a template which multiple species can use. 
   
-human_female_hair_02 = {
-	default = "gfx/models/portraits/human/human_female_hair_DARK_05.dds"
+human_female_hair_03 = {
+	default = "gfx/models/portraits/human/human_female_hair_DARK_07.dds"
 	
 	game_setup = {#will run with a limited country scope. species and government is set but the country does not actually exist
-		default = "gfx/models/portraits/human/human_female_hair_DARK_05.dds"
+		default = "gfx/models/portraits/human/human_female_hair_DARK_07.dds"
 	}
 	
 	#species scope
 	species = { #generic portrait for a species
-		default = "gfx/models/portraits/human/human_female_hair_DARK_05.dds"
+		default = "gfx/models/portraits/human/human_female_hair_DARK_07.dds"
 	}
 	
 	#pop scope
@@ -40,32 +40,58 @@ human_female_hair_02 = {
 		random = {
 			trigger = { leader_class = general }
 			list = {
-				"gfx/models/portraits/human/human_female_hair_DARK_08.dds"
-				"gfx/models/portraits/human/human_female_hair_DARK_09.dds"
+				"gfx/models/portraits/human/human_female_hair_DARK_MilitaryG_04.dds"
+				"gfx/models/portraits/human/human_female_hair_DARK_MilitaryG_05.dds"
 			}
 		}		
 		
 		random = {
 			trigger = { leader_class = admiral }
 			list = {
-				"gfx/models/portraits/human/human_female_hair_DARK_01.dds"
-				"gfx/models/portraits/human/human_female_hair_DARK_02.dds"
-				"gfx/models/portraits/human/human_female_hair_DARK_05.dds"
+				"gfx/models/portraits/human/human_female_hair_DARK_MilitaryG_01.dds"
+				"gfx/models/portraits/human/human_female_hair_DARK_MilitaryG_02.dds"
+				"gfx/models/portraits/human/human_female_hair_DARK_MilitaryG_03.dds"
 			}
 		}	
 		
 		random = {
 			trigger = { leader_class = scientist }
 			list = {
-				"gfx/models/portraits/human/human_female_hair_DARK_01.dds"
-				"gfx/models/portraits/human/human_female_hair_DARK_02.dds"
-				"gfx/models/portraits/human/human_female_hair_DARK_03.dds"
-				"gfx/models/portraits/human/human_female_hair_DARK_04.dds"  
-				"gfx/models/portraits/human/human_female_hair_DARK_05.dds"
-				"gfx/models/portraits/human/human_female_hair_DARK_06.dds"
-				"gfx/models/portraits/human/human_female_hair_DARK_07.dds"
-				"gfx/models/portraits/human/human_female_hair_DARK_08.dds"
-
+				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG1_01.dds"
+				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG1_02.dds"
+				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG1_03.dds"
+				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG1_04.dds"
+				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG1_05.dds"
+				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG1_06.dds"
+				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG1_07.dds"
+				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG1_08.dds"
+				
+				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG2_01.dds"
+				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG2_02.dds"
+				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG2_03.dds"
+				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG2_04.dds"
+				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG2_05.dds"
+				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG2_06.dds"
+				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG2_07.dds"
+				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG2_08.dds"
+				
+				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG3_01.dds"
+				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG3_02.dds"
+				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG3_03.dds"
+				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG3_04.dds"
+				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG3_05.dds"
+				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG3_06.dds"
+				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG3_07.dds"
+				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG3_08.dds"
+			
+				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG4_01.dds"
+				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG4_02.dds"
+				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG4_03.dds"
+				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG4_04.dds"
+				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG4_05.dds"
+				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG4_06.dds"
+				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG4_07.dds"
+				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG4_08.dds"
 			}
 		}		
 		
@@ -101,8 +127,9 @@ human_female_hair_02 = {
 			}
 				
 			list = {
-				"gfx/models/portraits/human/human_female_hair_DARK_08.dds"
-				"gfx/models/portraits/human/human_female_hair_DARK_09.dds"
+				"gfx/models/portraits/human/human_female_hair_DARK_MilitaryG_01.dds"
+				"gfx/models/portraits/human/human_female_hair_DARK_MilitaryG_02.dds"
+				"gfx/models/portraits/human/human_female_hair_DARK_MilitaryG_03.dds"
 			}
 		}		
 		
@@ -117,8 +144,9 @@ human_female_hair_02 = {
 			}	
 			
 			list = {
-				"gfx/models/portraits/human/human_female_hair_DARK_05.dds"
 				"gfx/models/portraits/human/human_female_hair_DARK_06.dds"
+				"gfx/models/portraits/human/human_female_hair_DARK_07.dds"				
+				
 			}
 		}		
 		
@@ -156,6 +184,7 @@ human_female_hair_02 = {
 			}
 			
 			list = {
+			
 				"gfx/models/portraits/human/human_female_hair_DARK_01.dds"
 				"gfx/models/portraits/human/human_female_hair_DARK_02.dds"
 				"gfx/models/portraits/human/human_female_hair_DARK_03.dds"

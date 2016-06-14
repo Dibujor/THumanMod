@@ -49,16 +49,6 @@ human_female_hair_04 = {
 				"gfx/models/portraits/human/human_female_hair_RED_08.dds"
 				"gfx/models/portraits/human/human_female_hair_RED_09.dds"
 				
-				"gfx/models/portraits/human/human_female_hair_RED_MilitaryG_03.dds"
-				"gfx/models/portraits/human/human_female_hair_RED_MilitaryG_04.dds"
-				
-				"gfx/models/portraits/human/human_female_hair_DARK_MilitaryG_04.dds"
-				"gfx/models/portraits/human/human_female_hair_DARK_MilitaryG_05.dds"
-				
-				"gfx/models/portraits/human/human_female_hair_BLONDE_MilitaryG_03.dds"
-				"gfx/models/portraits/human/human_female_hair_BLONDE_MilitaryG_04.dds"
-				
-				
 			}
 		}		
 		
@@ -76,16 +66,6 @@ human_female_hair_04 = {
 				"gfx/models/portraits/human/human_female_hair_RED_01.dds"
 				"gfx/models/portraits/human/human_female_hair_RED_02.dds"				
 				"gfx/models/portraits/human/human_female_hair_RED_04.dds"
-				
-				"gfx/models/portraits/human/human_female_hair_BLONDE_MilitaryG_01.dds"
-				"gfx/models/portraits/human/human_female_hair_BLONDE_MilitaryG_02.dds"
-				
-				"gfx/models/portraits/human/human_female_hair_DARK_MilitaryG_01.dds"
-				"gfx/models/portraits/human/human_female_hair_DARK_MilitaryG_02.dds"
-				"gfx/models/portraits/human/human_female_hair_DARK_MilitaryG_03.dds"
-				
-				"gfx/models/portraits/human/human_female_hair_RED_MilitaryG_01.dds"
-				"gfx/models/portraits/human/human_female_hair_RED_MilitaryG_02.dds"
 				
 				
 			}
@@ -123,119 +103,6 @@ human_female_hair_04 = {
 				"gfx/models/portraits/human/human_female_hair_RED_08.dds"
 			#	"gfx/models/portraits/human/human_female_hair_RED_09.dds"
 				
-			#	SCIENCE GADGETS / IMPLANTS DARK HAIR
-				
-				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG1_01.dds"
-				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG1_02.dds"
-				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG1_03.dds"
-				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG1_04.dds"
-				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG1_05.dds"
-				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG1_06.dds"
-				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG1_07.dds"
-				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG1_08.dds"
-				
-				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG2_01.dds"
-				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG2_02.dds"
-				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG2_03.dds"
-				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG2_04.dds"
-				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG2_05.dds"
-				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG2_06.dds"
-				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG2_07.dds"
-				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG2_08.dds"
-				
-				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG3_01.dds"
-				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG3_02.dds"
-				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG3_03.dds"
-				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG3_04.dds"
-				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG3_05.dds"
-				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG3_06.dds"
-				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG3_07.dds"
-				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG3_08.dds"
-			
-				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG4_01.dds"
-				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG4_02.dds"
-				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG4_03.dds"
-				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG4_04.dds"
-				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG4_05.dds"
-				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG4_06.dds"
-				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG4_07.dds"
-				"gfx/models/portraits/human/human_female_hair_DARK_ScienceG4_08.dds"
-				
-				#	SCIENCE GADGETS / IMPLANTS BLONDE HAIR
-				
-				"gfx/models/portraits/human/human_female_hair_BLONDE_ScienceG1_01.dds"
-				"gfx/models/portraits/human/human_female_hair_BLONDE_ScienceG1_02.dds"
-				"gfx/models/portraits/human/human_female_hair_BLONDE_ScienceG1_03.dds"
-				"gfx/models/portraits/human/human_female_hair_BLONDE_ScienceG1_04.dds"
-				"gfx/models/portraits/human/human_female_hair_BLONDE_ScienceG1_05.dds"
-				"gfx/models/portraits/human/human_female_hair_BLONDE_ScienceG1_06.dds"
-				"gfx/models/portraits/human/human_female_hair_BLONDE_ScienceG1_07.dds"
-				"gfx/models/portraits/human/human_female_hair_BLONDE_ScienceG1_08.dds"
-				
-				"gfx/models/portraits/human/human_female_hair_BLONDE_ScienceG2_01.dds"
-				"gfx/models/portraits/human/human_female_hair_BLONDE_ScienceG2_02.dds"
-				"gfx/models/portraits/human/human_female_hair_BLONDE_ScienceG2_03.dds"
-				"gfx/models/portraits/human/human_female_hair_BLONDE_ScienceG2_04.dds"
-				"gfx/models/portraits/human/human_female_hair_BLONDE_ScienceG2_05.dds"
-				"gfx/models/portraits/human/human_female_hair_BLONDE_ScienceG2_06.dds"
-				"gfx/models/portraits/human/human_female_hair_BLONDE_ScienceG2_07.dds"
-				"gfx/models/portraits/human/human_female_hair_BLONDE_ScienceG2_08.dds"
-				
-				"gfx/models/portraits/human/human_female_hair_BLONDE_ScienceG3_01.dds"
-				"gfx/models/portraits/human/human_female_hair_BLONDE_ScienceG3_02.dds"
-				"gfx/models/portraits/human/human_female_hair_BLONDE_ScienceG3_03.dds"
-				"gfx/models/portraits/human/human_female_hair_BLONDE_ScienceG3_04.dds"
-				"gfx/models/portraits/human/human_female_hair_BLONDE_ScienceG3_05.dds"
-				"gfx/models/portraits/human/human_female_hair_BLONDE_ScienceG3_06.dds"
-				"gfx/models/portraits/human/human_female_hair_BLONDE_ScienceG3_07.dds"
-				"gfx/models/portraits/human/human_female_hair_BLONDE_ScienceG3_08.dds"
-			
-				"gfx/models/portraits/human/human_female_hair_BLONDE_ScienceG4_01.dds"
-				"gfx/models/portraits/human/human_female_hair_BLONDE_ScienceG4_02.dds"
-				"gfx/models/portraits/human/human_female_hair_BLONDE_ScienceG4_03.dds"
-				"gfx/models/portraits/human/human_female_hair_BLONDE_ScienceG4_04.dds"
-				"gfx/models/portraits/human/human_female_hair_BLONDE_ScienceG4_05.dds"
-				"gfx/models/portraits/human/human_female_hair_BLONDE_ScienceG4_06.dds"
-				"gfx/models/portraits/human/human_female_hair_BLONDE_ScienceG4_07.dds"
-				"gfx/models/portraits/human/human_female_hair_BLONDE_ScienceG4_08.dds"
-				
-				#	SCIENCE GADGETS / IMPLANTS RED HAIR
-				
-				"gfx/models/portraits/human/human_female_hair_RED_ScienceG1_01.dds"
-				"gfx/models/portraits/human/human_female_hair_RED_ScienceG1_02.dds"
-				"gfx/models/portraits/human/human_female_hair_RED_ScienceG1_03.dds"
-				"gfx/models/portraits/human/human_female_hair_RED_ScienceG1_04.dds"
-				"gfx/models/portraits/human/human_female_hair_RED_ScienceG1_05.dds"
-				"gfx/models/portraits/human/human_female_hair_RED_ScienceG1_06.dds"
-				"gfx/models/portraits/human/human_female_hair_RED_ScienceG1_07.dds"
-				"gfx/models/portraits/human/human_female_hair_RED_ScienceG1_08.dds"
-				
-				"gfx/models/portraits/human/human_female_hair_RED_ScienceG2_01.dds"
-				"gfx/models/portraits/human/human_female_hair_RED_ScienceG2_02.dds"
-				"gfx/models/portraits/human/human_female_hair_RED_ScienceG2_03.dds"
-				"gfx/models/portraits/human/human_female_hair_RED_ScienceG2_04.dds"
-				"gfx/models/portraits/human/human_female_hair_RED_ScienceG2_05.dds"
-				"gfx/models/portraits/human/human_female_hair_RED_ScienceG2_06.dds"
-				"gfx/models/portraits/human/human_female_hair_RED_ScienceG2_07.dds"
-				"gfx/models/portraits/human/human_female_hair_RED_ScienceG2_08.dds"
-				
-				"gfx/models/portraits/human/human_female_hair_RED_ScienceG3_01.dds"
-				"gfx/models/portraits/human/human_female_hair_RED_ScienceG3_02.dds"
-				"gfx/models/portraits/human/human_female_hair_RED_ScienceG3_03.dds"
-				"gfx/models/portraits/human/human_female_hair_RED_ScienceG3_04.dds"
-				"gfx/models/portraits/human/human_female_hair_RED_ScienceG3_05.dds"
-				"gfx/models/portraits/human/human_female_hair_RED_ScienceG3_06.dds"
-				"gfx/models/portraits/human/human_female_hair_RED_ScienceG3_07.dds"
-				"gfx/models/portraits/human/human_female_hair_RED_ScienceG3_08.dds"
-			
-				"gfx/models/portraits/human/human_female_hair_RED_ScienceG4_01.dds"
-				"gfx/models/portraits/human/human_female_hair_RED_ScienceG4_02.dds"
-				"gfx/models/portraits/human/human_female_hair_RED_ScienceG4_03.dds"
-				"gfx/models/portraits/human/human_female_hair_RED_ScienceG4_04.dds"
-				"gfx/models/portraits/human/human_female_hair_RED_ScienceG4_05.dds"
-				"gfx/models/portraits/human/human_female_hair_RED_ScienceG4_06.dds"
-				"gfx/models/portraits/human/human_female_hair_RED_ScienceG4_07.dds"
-				"gfx/models/portraits/human/human_female_hair_RED_ScienceG4_08.dds"
 			}
 		}		
 		
@@ -298,15 +165,6 @@ human_female_hair_04 = {
 				
 				"gfx/models/portraits/human/human_female_hair_RED_08.dds"
 				"gfx/models/portraits/human/human_female_hair_RED_09.dds"
-				
-				"gfx/models/portraits/human/human_female_hair_RED_MilitaryG_03.dds"
-				"gfx/models/portraits/human/human_female_hair_RED_MilitaryG_04.dds"
-				
-				"gfx/models/portraits/human/human_female_hair_DARK_MilitaryG_04.dds"
-				"gfx/models/portraits/human/human_female_hair_DARK_MilitaryG_05.dds"
-				
-				"gfx/models/portraits/human/human_female_hair_BLONDE_MilitaryG_03.dds"
-				"gfx/models/portraits/human/human_female_hair_BLONDE_MilitaryG_04.dds"
 			}
 		}		
 		
