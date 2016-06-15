@@ -93,11 +93,11 @@ portrait_groups = {
 		pop = { #for a specific pop
 			add = {
 				portraits = {
-					human_female_01
-					human_female_02
-					human_female_03				
-					human_female_04
-					human_female_05
+					#human_female_01
+					#human_female_02
+					#human_female_03				
+					#human_female_04
+					#human_female_05
 					human_female_06
 					human_female_07
 					human_female_08					
