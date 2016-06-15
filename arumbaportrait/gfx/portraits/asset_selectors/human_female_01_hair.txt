@@ -121,9 +121,8 @@ human_female_hair_01 = {
 			
 			list = {
 			
-				"gfx/models/portraits/human/human_female_hair_INDO_03.dds"
-				"gfx/models/portraits/human/human_female_hair_INDO_05.dds"
-				"gfx/models/portraits/human/human_female_hair_INDO_06.dds"
+				"gfx/models/portraits/human/human_female_hair_DARK_06.dds"
+				"gfx/models/portraits/human/human_female_hair_DARK_07.dds"
 			
 			}
 		}		
@@ -163,11 +162,14 @@ human_female_hair_01 = {
 			
 			list = {
 			
-				"gfx/models/portraits/human/human_female_hair_INDO_01.dds"
-				"gfx/models/portraits/human/human_female_hair_INDO_02.dds"
-				"gfx/models/portraits/human/human_female_hair_INDO_03.dds"
-				"gfx/models/portraits/human/human_female_hair_INDO_05.dds"
-				"gfx/models/portraits/human/human_female_hair_INDO_06.dds"
+				"gfx/models/portraits/human/human_female_hair_DARK_01.dds"
+				"gfx/models/portraits/human/human_female_hair_DARK_02.dds"
+				"gfx/models/portraits/human/human_female_hair_DARK_03.dds"
+				"gfx/models/portraits/human/human_female_hair_DARK_04.dds"  
+			#	"gfx/models/portraits/human/human_female_hair_DARK_05.dds"
+				"gfx/models/portraits/human/human_female_hair_DARK_06.dds"
+				"gfx/models/portraits/human/human_female_hair_DARK_07.dds"
+			#	"gfx/models/portraits/human/human_female_hair_DARK_08.dds"
 			
 			}
 		}
