@@ -17,18 +17,18 @@ human_female_hair_03 = {
 	
 		default = "gfx/models/portraits/human/human_female_hair_transparent.dds"
 
-		random = {
-			list = {
-				"gfx/models/portraits/human/human_female_hair_pops_1.dds"
-				"gfx/models/portraits/human/human_female_hair_pops_2.dds"
-				"gfx/models/portraits/human/human_female_hair_pops_3.dds"
-				"gfx/models/portraits/human/human_female_hair_pops_4.dds"
-				"gfx/models/portraits/human/human_female_hair_pops_5.dds"
-				"gfx/models/portraits/human/human_female_hair_pops_6.dds"
-				"gfx/models/portraits/human/human_female_hair_pops_7.dds"
-				
-			}
-		}	
+		#random = {
+		#	list = {
+		#		"gfx/models/portraits/human/human_female_hair_pops_1.dds"
+		#		"gfx/models/portraits/human/human_female_hair_pops_2.dds"
+		#		"gfx/models/portraits/human/human_female_hair_pops_3.dds"
+		#		"gfx/models/portraits/human/human_female_hair_pops_4.dds"
+		#		"gfx/models/portraits/human/human_female_hair_pops_5.dds"
+		#		"gfx/models/portraits/human/human_female_hair_pops_6.dds"
+		#		"gfx/models/portraits/human/human_female_hair_pops_7.dds"
+		#		
+		#	}
+		#}	
 	}
 	
 	

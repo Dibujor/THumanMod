@@ -1,6 +1,6 @@
 # This is a template which multiple species can use. 
   
-human_female_hair_05 = {
+human_female_hair_10 = {
 	default = "gfx/models/portraits/human/human_female_hair_AFRICAN_01.dds"
 	
 	game_setup = {#will run with a limited country scope. species and government is set but the country does not actually exist
