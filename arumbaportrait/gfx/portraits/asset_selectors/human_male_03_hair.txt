@@ -43,6 +43,15 @@ human_male_hair_03 = {
 				"gfx/models/portraits/human/human_male_hair_leaders_dark_10.dds"
 				"gfx/models/portraits/human/human_male_hair_leaders_dark_12.dds"
 				"gfx/models/portraits/human/human_male_hair_leaders_dark_13.dds"
+				
+				# IMPLANTS -----------------------------------------------------
+				
+			#	"gfx/models/portraits/human/human_male_hair_military_dark_g1_1.dds"
+			#	"gfx/models/portraits/human/human_male_hair_military_dark_g1_2.dds"
+				"gfx/models/portraits/human/human_male_hair_military_dark_g1_3.dds"
+				"gfx/models/portraits/human/human_male_hair_military_dark_g1_4.dds"
+			#	"gfx/models/portraits/human/human_male_hair_military_dark_g1_5.dds"
+				"gfx/models/portraits/human/human_male_hair_military_dark_g1_6.dds"
 					
 			}
 		}		
@@ -53,6 +62,15 @@ human_male_hair_03 = {
 				
 				"gfx/models/portraits/human/human_male_hair_leaders_dark_8.dds"
 				"gfx/models/portraits/human/human_male_hair_leaders_dark_11.dds"
+				
+				# IMPLANTS -----------------------------------------------------
+				
+				"gfx/models/portraits/human/human_male_hair_military_dark_g1_1.dds"
+			#	"gfx/models/portraits/human/human_male_hair_military_dark_g1_2.dds"
+			#	"gfx/models/portraits/human/human_male_hair_military_dark_g1_3.dds"
+			#	"gfx/models/portraits/human/human_male_hair_military_dark_g1_4.dds"
+			#	"gfx/models/portraits/human/human_male_hair_military_dark_g1_5.dds"
+			#	"gfx/models/portraits/human/human_male_hair_military_dark_g1_6.dds"
 				
 	
 			}
@@ -74,6 +92,56 @@ human_male_hair_03 = {
 				"gfx/models/portraits/human/human_male_hair_leaders_dark_11.dds"
 				"gfx/models/portraits/human/human_male_hair_leaders_dark_12.dds"
 			#	"gfx/models/portraits/human/human_male_hair_leaders_dark_13.dds"
+			
+				# IMPLANTS ------------------------------------------------------
+			
+			#	"gfx/models/portraits/human/human_male_hair_scientist_dark_g1_1.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_dark_g1_2.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_dark_g1_3.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_dark_g1_4.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_dark_g1_5.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_dark_g1_6.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_dark_g1_7.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_dark_g1_8.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_dark_g1_9.dds"
+			#	"gfx/models/portraits/human/human_male_hair_scientist_dark_g1_10.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_dark_g1_11.dds"
+				
+			#	"gfx/models/portraits/human/human_male_hair_scientist_dark_g2_1.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_dark_g2_2.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_dark_g2_3.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_dark_g2_4.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_dark_g2_5.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_dark_g2_6.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_dark_g2_7.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_dark_g2_8.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_dark_g2_9.dds"
+			#	"gfx/models/portraits/human/human_male_hair_scientist_dark_g2_10.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_dark_g2_11.dds"
+				
+			#	"gfx/models/portraits/human/human_male_hair_scientist_dark_g3_1.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_dark_g3_2.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_dark_g3_3.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_dark_g3_4.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_dark_g3_5.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_dark_g3_6.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_dark_g3_7.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_dark_g3_8.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_dark_g3_9.dds"
+			#	"gfx/models/portraits/human/human_male_hair_scientist_dark_g3_10.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_dark_g3_11.dds"
+				
+			#	"gfx/models/portraits/human/human_male_hair_scientist_dark_g4_1.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_dark_g4_2.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_dark_g4_3.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_dark_g4_4.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_dark_g4_5.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_dark_g4_6.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_dark_g4_7.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_dark_g4_8.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_dark_g4_9.dds"
+			#	"gfx/models/portraits/human/human_male_hair_scientist_dark_g4_10.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_dark_g4_11.dds"
 
 			}
 		}		
@@ -120,6 +188,15 @@ human_male_hair_03 = {
 				"gfx/models/portraits/human/human_male_hair_leaders_dark_10.dds"
 				"gfx/models/portraits/human/human_male_hair_leaders_dark_12.dds"
 				"gfx/models/portraits/human/human_male_hair_leaders_dark_13.dds"
+				
+				# IMPLANTS -----------------------------------------------------
+				
+			#	"gfx/models/portraits/human/human_male_hair_military_dark_g1_1.dds"
+			#	"gfx/models/portraits/human/human_male_hair_military_dark_g1_2.dds"
+				"gfx/models/portraits/human/human_male_hair_military_dark_g1_3.dds"
+				"gfx/models/portraits/human/human_male_hair_military_dark_g1_4.dds"
+			#	"gfx/models/portraits/human/human_male_hair_military_dark_g1_5.dds"
+				"gfx/models/portraits/human/human_male_hair_military_dark_g1_6.dds"
 			}
 		}		
 		

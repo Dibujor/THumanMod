@@ -48,6 +48,21 @@ human_male_hair_04 = {
 				"gfx/models/portraits/human/human_male_hair_leaders_brown_10.dds"
 								
 				"gfx/models/portraits/human/human_male_hair_leaders_red_3.dds"
+				
+				# IMPLANTS -----------------------------------------------------
+				
+			#	"gfx/models/portraits/human/human_male_hair_military_brown_g1_1.dds"
+			#	"gfx/models/portraits/human/human_male_hair_military_brown_g1_2.dds"
+				"gfx/models/portraits/human/human_male_hair_military_brown_g1_3.dds"
+				"gfx/models/portraits/human/human_male_hair_military_brown_g1_4.dds"
+				"gfx/models/portraits/human/human_male_hair_military_brown_g1_5.dds"
+				
+				"gfx/models/portraits/human/human_male_hair_military_blonde_g1_1.dds"
+				"gfx/models/portraits/human/human_male_hair_military_blonde_g1_2.dds"
+				"gfx/models/portraits/human/human_male_hair_military_blonde_g1_3.dds"
+			
+				"gfx/models/portraits/human/human_male_hair_military_red_g1_1.dds"
+				"gfx/models/portraits/human/human_male_hair_military_red_g1_2.dds"
 					
 			}
 		}		
@@ -69,7 +84,22 @@ human_male_hair_04 = {
 				
 				"gfx/models/portraits/human/human_male_hair_leaders_red_1.dds"
 				"gfx/models/portraits/human/human_male_hair_leaders_red_2.dds"
-				"gfx/models/portraits/human/human_male_hair_leaders_red_3.dds"				
+				"gfx/models/portraits/human/human_male_hair_leaders_red_3.dds"	
+
+				# IMPLANTS ---------------------------------------------------
+				
+			 	"gfx/models/portraits/human/human_male_hair_military_brown_g1_1.dds"
+				"gfx/models/portraits/human/human_male_hair_military_brown_g1_2.dds"
+			#	"gfx/models/portraits/human/human_male_hair_military_brown_g1_3.dds"
+			#	"gfx/models/portraits/human/human_male_hair_military_brown_g1_4.dds"
+			#	"gfx/models/portraits/human/human_male_hair_military_brown_g1_5.dds"
+				
+				"gfx/models/portraits/human/human_male_hair_military_blonde_g1_1.dds"
+				"gfx/models/portraits/human/human_male_hair_military_blonde_g1_2.dds"
+				"gfx/models/portraits/human/human_male_hair_military_blonde_g1_3.dds"
+			
+				"gfx/models/portraits/human/human_male_hair_military_red_g1_1.dds"
+				"gfx/models/portraits/human/human_male_hair_military_red_g1_2.dds"
 			}
 		}	
 		
@@ -100,6 +130,104 @@ human_male_hair_04 = {
 				"gfx/models/portraits/human/human_male_hair_leaders_red_1.dds"
 				"gfx/models/portraits/human/human_male_hair_leaders_red_2.dds"
 				"gfx/models/portraits/human/human_male_hair_leaders_red_3.dds"
+				
+				#	IMPLANTS --  BROWN HAIR
+				
+				"gfx/models/portraits/human/human_male_hair_scientist_brown_g1_1.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_brown_g1_2.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_brown_g1_3.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_brown_g1_4.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_brown_g1_5.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_brown_g1_6.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_brown_g1_7.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_brown_g1_8.dds"
+				
+				"gfx/models/portraits/human/human_male_hair_scientist_brown_g2_1.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_brown_g2_2.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_brown_g2_3.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_brown_g2_4.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_brown_g2_5.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_brown_g2_6.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_brown_g2_7.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_brown_g2_8.dds"
+				
+				"gfx/models/portraits/human/human_male_hair_scientist_brown_g3_1.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_brown_g3_2.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_brown_g3_3.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_brown_g3_4.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_brown_g3_5.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_brown_g3_6.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_brown_g3_7.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_brown_g3_8.dds"
+			
+				"gfx/models/portraits/human/human_male_hair_scientist_brown_g4_1.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_brown_g4_2.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_brown_g4_3.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_brown_g4_4.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_brown_g4_5.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_brown_g4_6.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_brown_g4_7.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_brown_g4_8.dds"
+				
+				#	IMPLANTS --  BLONDE HAIR
+				
+				"gfx/models/portraits/human/human_male_hair_scientist_blonde_g1_1.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_blonde_g1_2.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_blonde_g1_3.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_blonde_g1_4.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_blonde_g1_5.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_blonde_g1_6.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_blonde_g1_7.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_blonde_g1_8.dds"
+				
+				"gfx/models/portraits/human/human_male_hair_scientist_blonde_g2_1.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_blonde_g2_2.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_blonde_g2_3.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_blonde_g2_4.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_blonde_g2_5.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_blonde_g2_6.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_blonde_g2_7.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_blonde_g2_8.dds"
+				
+				"gfx/models/portraits/human/human_male_hair_scientist_blonde_g3_1.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_blonde_g3_2.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_blonde_g3_3.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_blonde_g3_4.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_blonde_g3_5.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_blonde_g3_6.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_blonde_g3_7.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_blonde_g3_8.dds"
+			
+				"gfx/models/portraits/human/human_male_hair_scientist_blonde_g4_1.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_blonde_g4_2.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_blonde_g4_3.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_blonde_g4_4.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_blonde_g4_5.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_blonde_g4_6.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_blonde_g4_7.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_blonde_g4_8.dds"
+				
+				#	IMPLANTS --  RED HAIR
+				
+				"gfx/models/portraits/human/human_male_hair_scientist_red_g1_1.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_red_g1_2.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_red_g1_3.dds"
+				
+				
+				"gfx/models/portraits/human/human_male_hair_scientist_red_g2_1.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_red_g2_2.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_red_g2_3.dds"
+				
+				
+				"gfx/models/portraits/human/human_male_hair_scientist_red_g3_1.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_red_g3_2.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_red_g3_3.dds"
+				
+			
+				"gfx/models/portraits/human/human_male_hair_scientist_red_g4_1.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_red_g4_2.dds"
+				"gfx/models/portraits/human/human_male_hair_scientist_red_g4_3.dds"
+				
 			
 
 			}
@@ -162,6 +290,21 @@ human_male_hair_04 = {
 				"gfx/models/portraits/human/human_male_hair_leaders_brown_10.dds"
 								
 				"gfx/models/portraits/human/human_male_hair_leaders_red_3.dds"
+				
+				# IMPLANTS -----------------------------------------------------
+				
+			#	"gfx/models/portraits/human/human_male_hair_military_brown_g1_1.dds"
+			#	"gfx/models/portraits/human/human_male_hair_military_brown_g1_2.dds"
+				"gfx/models/portraits/human/human_male_hair_military_brown_g1_3.dds"
+				"gfx/models/portraits/human/human_male_hair_military_brown_g1_4.dds"
+				"gfx/models/portraits/human/human_male_hair_military_brown_g1_5.dds"
+				
+				"gfx/models/portraits/human/human_male_hair_military_blonde_g1_1.dds"
+				"gfx/models/portraits/human/human_male_hair_military_blonde_g1_2.dds"
+				"gfx/models/portraits/human/human_male_hair_military_blonde_g1_3.dds"
+			
+				"gfx/models/portraits/human/human_male_hair_military_red_g1_1.dds"
+				"gfx/models/portraits/human/human_male_hair_military_red_g1_2.dds"
 			}
 		}		
 		
