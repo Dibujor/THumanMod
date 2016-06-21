@@ -1,42 +1,65 @@
-# This is a template which multiple species can use. 
-  
+# This is a template which multiple species can use.
+
 human_male_hair_05 = {
 	default = "gfx/models/portraits/human/human_male_hair_leaders_black_8.dds"
-	
+
 	game_setup = {#will run with a limited country scope. species and government is set but the country does not actually exist
 		default = "gfx/models/portraits/human/human_male_hair_leaders_black_8.dds"
 	}
-	
+
 	#species scope
 	species = { #generic portrait for a species
 		default = "gfx/models/portraits/human/human_male_hair_leaders_black_8.dds"
 	}
-	
-	#pop scope
-	pop = { #for a specific pop
-	
-		default = "gfx/models/portraits/human/human_male_hair_black_style_01_transparent.dds"
 
-		random = {
-			list = {
-				"gfx/models/portraits/human/human_male_hair_pops_1.dds"
-				"gfx/models/portraits/human/human_male_hair_pops_2.dds"
-				"gfx/models/portraits/human/human_male_hair_pops_3.dds"
-				"gfx/models/portraits/human/human_male_hair_pops_4.dds"
-				"gfx/models/portraits/human/human_male_hair_pops_5.dds"
-				"gfx/models/portraits/human/human_male_hair_pops_6.dds"
-				"gfx/models/portraits/human/human_male_hair_pops_7.dds"
-				
-			}
-		}	
+    #pop scope
+	pop = { #for a specific pop
+
+    default = "gfx/models/portraits/human/human_male_hair_black_style_01_transparent.dds"
+
+    "gfx/models/portraits/human/transhuman_male_hair_pops_artic.dds"   = {OR = { planet = { is_planet_class = pc_arctic } }} # This should appear always when planet is arctic
+
+    random = {
+        list = {
+            "gfx/models/portraits/human/human_male_hair_pops_1.dds"
+            "gfx/models/portraits/human/human_male_hair_pops_2.dds"
+            "gfx/models/portraits/human/human_male_hair_pops_3.dds"
+            "gfx/models/portraits/human/human_male_hair_pops_4.dds"
+            "gfx/models/portraits/human/human_male_hair_pops_5.dds"
+            "gfx/models/portraits/human/human_male_hair_pops_6.dds"
+            "gfx/models/portraits/human/human_male_hair_pops_7.dds"
+
+
+        }
+    }
+    random = {
+        trigger = { #Should take a random one from these ones always when planet is desert
+            OR = {
+                planet = { is_planet_class = pc_desert }
+            }
+        }
+
+        list = {
+
+            "gfx/models/portraits/human/transhuman_male_hair_pops_desert1.dds"
+            "gfx/models/portraits/human/transhuman_male_hair_pops_desert2.dds"
+            "gfx/models/portraits/human/transhuman_male_hair_pops_desert3.dds"
+            "gfx/models/portraits/human/transhuman_male_hair_pops_desert4.dds"
+            "gfx/models/portraits/human/transhuman_male_hair_pops_desert5.dds"
+            "gfx/models/portraits/human/transhuman_male_hair_pops_desert6.dds"
+            "gfx/models/portraits/human/transhuman_male_hair_pops_desert7.dds"
+
+            }
+        }
+
 	}
-	
-	
-	
-	
+
+
+
+
 	#leader scope
 	leader = { #scientists, generals, admirals, governor
-	
+
 		random = {
 			trigger = { leader_class = general }
 			list = {
@@ -44,43 +67,43 @@ human_male_hair_05 = {
 				"gfx/models/portraits/human/human_male_hair_leaders_black_6.dds"
 				"gfx/models/portraits/human/human_male_hair_leaders_black_8.dds"
 				"gfx/models/portraits/human/human_male_hair_leaders_black_9.dds"
-				
+
 				# IMPLANTS -----------------------------------------------------
-				
+
 				"gfx/models/portraits/human/human_male_hair_military_black_g1_1.dds"
 				"gfx/models/portraits/human/human_male_hair_military_black_g1_2.dds"
 				"gfx/models/portraits/human/human_male_hair_military_black_g1_3.dds"
 				"gfx/models/portraits/human/human_male_hair_military_black_g1_4.dds"
 				"gfx/models/portraits/human/human_male_hair_military_black_g1_5.dds"
-				
-								
+
+
 			}
-		}		
-		
+		}
+
 		random = {
 			trigger = { leader_class = admiral }
 			list = {
-				
+
 				"gfx/models/portraits/human/human_male_hair_leaders_black_10.dds"
 				"gfx/models/portraits/human/human_male_hair_leaders_black_5.dds"
 				"gfx/models/portraits/human/human_male_hair_leaders_black_8.dds"
 				"gfx/models/portraits/human/human_male_hair_leaders_black_9.dds"
-				
+
 				# IMPLANTS -----------------------------------------------------
-				
+
 			#	"gfx/models/portraits/human/human_male_hair_military_black_g1_1.dds"
 			#	"gfx/models/portraits/human/human_male_hair_military_black_g1_2.dds"
 				"gfx/models/portraits/human/human_male_hair_military_black_g1_3.dds"
 				"gfx/models/portraits/human/human_male_hair_military_black_g1_4.dds"
 			#	"gfx/models/portraits/human/human_male_hair_military_black_g1_5.dds"
-				
+
 			}
-		}	
-		
+		}
+
 		random = {
 			trigger = { leader_class = scientist }
 			list = {
-				
+
 				"gfx/models/portraits/human/human_male_hair_leaders_black_1.dds"
 				"gfx/models/portraits/human/human_male_hair_leaders_black_2.dds"
 				"gfx/models/portraits/human/human_male_hair_leaders_black_3.dds"
@@ -90,10 +113,10 @@ human_male_hair_05 = {
 				"gfx/models/portraits/human/human_male_hair_leaders_black_7.dds"
 				"gfx/models/portraits/human/human_male_hair_leaders_black_8.dds"
 				"gfx/models/portraits/human/human_male_hair_leaders_black_9.dds"
-				
-				
+
+
 			# IMPLANTS ---------------------------------------------------------
-			
+
 				"gfx/models/portraits/human/human_male_hair_scientist_black_g1_1.dds"
 				"gfx/models/portraits/human/human_male_hair_scientist_black_g1_2.dds"
 				"gfx/models/portraits/human/human_male_hair_scientist_black_g1_3.dds"
@@ -103,7 +126,7 @@ human_male_hair_05 = {
 				"gfx/models/portraits/human/human_male_hair_scientist_black_g1_7.dds"
 				"gfx/models/portraits/human/human_male_hair_scientist_black_g1_8.dds"
 				"gfx/models/portraits/human/human_male_hair_scientist_black_g1_9.dds"
-				
+
 				"gfx/models/portraits/human/human_male_hair_scientist_black_g2_1.dds"
 				"gfx/models/portraits/human/human_male_hair_scientist_black_g2_2.dds"
 				"gfx/models/portraits/human/human_male_hair_scientist_black_g2_3.dds"
@@ -113,7 +136,7 @@ human_male_hair_05 = {
 				"gfx/models/portraits/human/human_male_hair_scientist_black_g2_7.dds"
 				"gfx/models/portraits/human/human_male_hair_scientist_black_g2_8.dds"
 				"gfx/models/portraits/human/human_male_hair_scientist_black_g2_9.dds"
-				
+
 				"gfx/models/portraits/human/human_male_hair_scientist_black_g3_1.dds"
 				"gfx/models/portraits/human/human_male_hair_scientist_black_g3_2.dds"
 				"gfx/models/portraits/human/human_male_hair_scientist_black_g3_3.dds"
@@ -123,7 +146,7 @@ human_male_hair_05 = {
 				"gfx/models/portraits/human/human_male_hair_scientist_black_g3_7.dds"
 				"gfx/models/portraits/human/human_male_hair_scientist_black_g3_8.dds"
 				"gfx/models/portraits/human/human_male_hair_scientist_black_g3_9.dds"
-				
+
 				"gfx/models/portraits/human/human_male_hair_scientist_black_g4_1.dds"
 				"gfx/models/portraits/human/human_male_hair_scientist_black_g4_2.dds"
 				"gfx/models/portraits/human/human_male_hair_scientist_black_g4_3.dds"
@@ -133,11 +156,11 @@ human_male_hair_05 = {
 				"gfx/models/portraits/human/human_male_hair_scientist_black_g4_7.dds"
 				"gfx/models/portraits/human/human_male_hair_scientist_black_g4_8.dds"
 				"gfx/models/portraits/human/human_male_hair_scientist_black_g4_9.dds"
-			
+
 
 			}
-		}		
-		
+		}
+
 		random = {
 			trigger = { leader_class = governor }
 			list = {
@@ -149,96 +172,96 @@ human_male_hair_05 = {
 				"gfx/models/portraits/human/human_male_hair_leaders_black_6.dds"
 				"gfx/models/portraits/human/human_male_hair_leaders_black_7.dds"
 				"gfx/models/portraits/human/human_male_hair_leaders_black_8.dds"
-				
-				
+
+
 			}
 		}
 	}
-  
-	#leader scope 
+
+	#leader scope
 	ruler = { #for rulers
 		#default = "gfx/models/portraits/human/human_male_clothes_ruler.dds"
-		
+
 		random = {
-			trigger = { 
+			trigger = {
 				OR = {
-					owner = { has_government = military_dictatorship } 
-					owner = { has_government = military_junta } 
-					owner = { has_government = ordered_stratocracy } 
-					owner = { has_government = military_republic } 
-					owner = { has_government = military_dictatorship } 
-					owner = { has_government = martial_demarchy } 
-					owner = { has_government = pirate_codex } 
+					owner = { has_government = military_dictatorship }
+					owner = { has_government = military_junta }
+					owner = { has_government = ordered_stratocracy }
+					owner = { has_government = military_republic }
+					owner = { has_government = military_dictatorship }
+					owner = { has_government = martial_demarchy }
+					owner = { has_government = pirate_codex }
 				}
 			}
-				
+
 			list = {
 
 				"gfx/models/portraits/human/human_male_hair_leaders_black_10.dds"
 				"gfx/models/portraits/human/human_male_hair_leaders_black_6.dds"
 				"gfx/models/portraits/human/human_male_hair_leaders_black_8.dds"
 				"gfx/models/portraits/human/human_male_hair_leaders_black_9.dds"
-				
+
 				# IMPLANTS -----------------------------------------------------
-				
+
 			#	"gfx/models/portraits/human/human_male_hair_military_black_g1_1.dds"
 				"gfx/models/portraits/human/human_male_hair_military_black_g1_2.dds"
 				"gfx/models/portraits/human/human_male_hair_military_black_g1_3.dds"
 			#	"gfx/models/portraits/human/human_male_hair_military_black_g1_4.dds"
 			#	"gfx/models/portraits/human/human_male_hair_military_black_g1_5.dds"
-		
-				
+
+
 			}
-		}		
-		
+		}
+
 		random = {
-			trigger = { 
+			trigger = {
 				OR = {
-					owner = { has_government = divine_mandate } 
-					owner = { has_government = transcendent_empire } 
-					owner = { has_government = theocratic_oligarchy } 
-					owner = { has_government = theocratic_republic } 
+					owner = { has_government = divine_mandate }
+					owner = { has_government = transcendent_empire }
+					owner = { has_government = theocratic_oligarchy }
+					owner = { has_government = theocratic_republic }
 				}
-			}	
-			
+			}
+
 			list = {
 				"gfx/models/portraits/human/human_male_hair_leaders_black_3.dds"
 			}
-		}		
-		
+		}
+
 		random = {
-			trigger = { 
+			trigger = {
 				OR = {
-					owner = { has_government = irenic_monarchy } 
-					owner = { has_government = despotic_empire } 
-					owner = { has_government = star_empire } 
-					owner = { has_government = transcendent_republic } 
-					owner = { has_government = direct_democracy } 
-					owner = { has_government = moral_democracy } 
-					owner = { has_government = irenic_democracy } 
+					owner = { has_government = irenic_monarchy }
+					owner = { has_government = despotic_empire }
+					owner = { has_government = star_empire }
+					owner = { has_government = transcendent_republic }
+					owner = { has_government = direct_democracy }
+					owner = { has_government = moral_democracy }
+					owner = { has_government = irenic_democracy }
 					owner = { has_government = democratic_utopia }
-					
-					owner = { has_government = stagnated_ascendancy } 
-					
-					owner = { has_government = despotic_hegemony } 
-					owner = { has_government = enlightened_monarchy } 
-					owner = { has_government = transcendent_oligarchy } 
-					owner = { has_government = plutocratic_oligarchy } 
-					owner = { has_government = peaceful_bureaucracy } 
-					owner = { has_government = irenic_protectorate } 
-					owner = { has_government = mega_corporation } 
-					
-					owner = { has_government = fragmented_nations } 
-					owner = { has_government = primitive_feudalism } 	
-					
-					owner = { has_government = ai_overlordship } 
-					owner = { has_government = science_directorate } 					
-					owner = { has_government = illuminated_technocracy } 
-					owner = { has_government = subconscious_consensus } 
-					
+
+					owner = { has_government = stagnated_ascendancy }
+
+					owner = { has_government = despotic_hegemony }
+					owner = { has_government = enlightened_monarchy }
+					owner = { has_government = transcendent_oligarchy }
+					owner = { has_government = plutocratic_oligarchy }
+					owner = { has_government = peaceful_bureaucracy }
+					owner = { has_government = irenic_protectorate }
+					owner = { has_government = mega_corporation }
+
+					owner = { has_government = fragmented_nations }
+					owner = { has_government = primitive_feudalism }
+
+					owner = { has_government = ai_overlordship }
+					owner = { has_government = science_directorate }
+					owner = { has_government = illuminated_technocracy }
+					owner = { has_government = subconscious_consensus }
+
 				}
 			}
-			
+
 			list = {
 				"gfx/models/portraits/human/human_male_hair_leaders_black_1.dds"
 				"gfx/models/portraits/human/human_male_hair_leaders_black_2.dds"
@@ -248,9 +271,8 @@ human_male_hair_05 = {
 				"gfx/models/portraits/human/human_male_hair_leaders_black_6.dds"
 				"gfx/models/portraits/human/human_male_hair_leaders_black_7.dds"
 				"gfx/models/portraits/human/human_male_hair_leaders_black_8.dds"
-				
+
 			}
 		}
 	}
 }
-  
