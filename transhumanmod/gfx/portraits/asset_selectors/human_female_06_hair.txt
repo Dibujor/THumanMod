@@ -16,7 +16,33 @@ human_female_hair_06 = {
 	pop = { #for a specific pop
 	
 		default = "gfx/models/portraits/human/human_female_hair_transparent.dds"
+		
+		#[NEW HAIRS]
+		
+		# ARTIC HOOD - Should appear always when planet is Artic
+		"gfx/models/portraits/human/transhuman_female_hair_pops_artic.dds"   = {OR = { planet = { is_planet_class = pc_arctic } }}
+		#DESERT MASK - Should take a random one from these ones always when planet is desert
+		random = { 
+        trigger = {
+            OR = {
+                planet = { is_planet_class = pc_desert }
+            }
+        }
 
+        list = {
+
+            "gfx/models/portraits/human/transhuman_female_hair_pops_desert1.dds"
+            "gfx/models/portraits/human/transhuman_female_hair_pops_desert2.dds"
+            "gfx/models/portraits/human/transhuman_female_hair_pops_desert3.dds"
+            "gfx/models/portraits/human/transhuman_female_hair_pops_desert4.dds"
+            "gfx/models/portraits/human/transhuman_female_hair_pops_desert5.dds"
+            "gfx/models/portraits/human/transhuman_female_hair_pops_desert6.dds"
+            "gfx/models/portraits/human/transhuman_female_hair_pops_desert7.dds"
+
+            }
+        }
+		# [/NEW HAIRS]
+		
 		random = {
 			list = {
 				"gfx/models/portraits/human/human_female_hair_pops_1.dds"

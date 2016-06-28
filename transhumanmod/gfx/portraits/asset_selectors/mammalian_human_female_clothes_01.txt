@@ -16,7 +16,14 @@ mammalian_human_female_clothes_01 = {
 	pop = { #for a specific pop
 		default = "gfx/models/portraits/human/human_female_clothes_pops.dds"
 		"gfx/models/portraits/human/human_female_clothes_pops_enslaved.dds"        = { is_enslaved = yes }
-	#	"gfx/models/portraits/human/human_female_clothes_pops_enslaved.dds"		   = { planet = { is_planet_class = pc_arid } }
+		
+		# Clothes based on planet type
+		
+		"gfx/models/portraits/human/transhuman_female_clothes_pops_arid.dds"			= { planet = { is_planet_class = pc_arid } }
+		"gfx/models/portraits/human/transhuman_female_clothes_pops_artic.dds"			= { planet = { is_planet_class = pc_arctic } }
+		"gfx/models/portraits/human/transhuman_female_clothes_pops_desert.dds"			= { planet = { is_planet_class = pc_desert } }
+		"gfx/models/portraits/human/transhuman_female_clothes_pops_oceanic.dds"		   	= { planet = { is_planet_class = pc_ocean } }
+		"gfx/models/portraits/human/transhuman_female_clothes_pops_tundra.dds"			= { planet = { is_planet_class = pc_tundra } }
 			
 	#	"gfx/models/portraits/human/human_female_clothes_admiral.dds" 	= { tile = { has_building = building_power_plant_1 } }
 	#	"gfx/models/portraits/human/human_female_outfit_scientist.dds" 	= { tile = { has_building = building_engineering_facility_1 } }
