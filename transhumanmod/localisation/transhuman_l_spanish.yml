@@ -1,0 +1,7 @@
+﻿l_spanish:
+ buildable_transrobot_pop_1:1 "$ROBOT_POP_SPECIES_1$"
+ buildable_transrobot_pop_1_desc:1 "$trait_robotic_1_desc$"
+ buildable_transrobot_pop_2:1 "$ROBOT_POP_SPECIES_2$"
+ buildable_transrobot_pop_2_desc:1 "$trait_robotic_2_desc$"
+ buildable_transrobot_pop_3:1 "$ROBOT_POP_SPECIES_3$"
+ buildable_transrobot_pop_3_desc:1 "$trait_robotic_3_desc$"

@@ -1,6 +1,6 @@
 # This is a template which multiple species can use.
 
-mammalian_human_male_clothes_01 = {
+mammalian_transhuman_male_clothes_01 = {
 	default = "gfx/models/portraits/human/human_male_clothes_ruler.dds"
 
 	game_setup = {#will run with a limited country scope. species and government is set but the country does not actually exist

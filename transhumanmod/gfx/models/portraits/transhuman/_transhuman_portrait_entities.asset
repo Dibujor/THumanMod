@@ -6,7 +6,7 @@
 @humanscale = 0.8
 
 entity = {
-	name = "portrait_human_female_01_entity"
+	name = "portrait_transhuman_female_01_entity"
 	pdxmesh = "portrait_human_female_01_mesh"
 	
 	default_state = "idle"
@@ -20,7 +20,7 @@ entity = {
 
 
 entity = {
-	name = "portrait_human_female_02_entity"
+	name = "portrait_transhuman_female_02_entity"
 	pdxmesh = "portrait_human_female_02_mesh"
 	
 	default_state = "idle"
@@ -34,7 +34,7 @@ entity = {
 
 
 entity = {
-	name = "portrait_human_female_03_entity"
+	name = "portrait_transhuman_female_03_entity"
 	pdxmesh = "portrait_human_female_03_mesh"
 	
 	default_state = "idle"
@@ -47,7 +47,7 @@ entity = {
 }
 
 entity = {
-	name = "portrait_human_female_04_entity"
+	name = "portrait_transhuman_female_04_entity"
 	pdxmesh = "portrait_human_female_04_mesh"
 	
 	default_state = "idle"
@@ -61,7 +61,7 @@ entity = {
 
 
 entity = {
-	name = "portrait_human_female_05_entity"
+	name = "portrait_transhuman_female_05_entity"
 	pdxmesh = "portrait_human_female_05_mesh"
 	
 	default_state = "idle"
@@ -80,7 +80,7 @@ entity = {
 
 
 entity = {
-	name = "portrait_human_male_01_entity"
+	name = "portrait_transhuman_male_01_entity"
 	pdxmesh = "portrait_human_male_01_mesh"
 	
 	default_state = "idle"
@@ -93,7 +93,7 @@ entity = {
 }
 
 entity = {
-	name = "portrait_human_male_02_entity"
+	name = "portrait_transhuman_male_02_entity"
 	pdxmesh = "portrait_human_male_02_mesh"
 	
 	default_state = "idle"
@@ -109,7 +109,7 @@ entity = {
 
 
 entity = {
-	name = "portrait_human_male_03_entity"
+	name = "portrait_transhuman_male_03_entity"
 	pdxmesh = "portrait_human_male_03_mesh"
 	
 	default_state = "idle"
@@ -123,7 +123,7 @@ entity = {
 
 
 entity = {
-	name = "portrait_human_male_04_entity"
+	name = "portrait_transhuman_male_04_entity"
 	pdxmesh = "portrait_human_male_04_mesh"
 	
 	default_state = "idle"
@@ -137,7 +137,7 @@ entity = {
 
 
 entity = {
-	name = "portrait_human_male_05_entity"
+	name = "portrait_transhuman_male_05_entity"
 	pdxmesh = "portrait_human_male_05_mesh"
 	
 	default_state = "idle"

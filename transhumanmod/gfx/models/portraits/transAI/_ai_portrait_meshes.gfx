@@ -2,7 +2,7 @@ objectTypes = {
 
 	pdxmesh = {
 		name = "portrait_ai_01_mesh"
-		file = "gfx/models/portraits/AI/ai_01_portrait.mesh"
+		file = "gfx/models/portraits/transAI/ai_01_portrait.mesh"
 		animation = { id = "idle"	type = "ai_01_happy_animation" }
 		animation = { id = "idle2"	type = "ai_01_happy_2_animation" }
 		scale = 1.0
@@ -10,7 +10,7 @@ objectTypes = {
 	
 	pdxmesh = {
 		name = "portrait_robot_01_mesh"
-		file = "gfx/models/portraits/AI/robot_01_portrait.mesh"
+		file = "gfx/models/portraits/transAI/robot_01_portrait.mesh"
 		animation = { id = "idle"	type = "ai_01_happy_animation" }
 		animation = { id = "idle2"	type = "ai_01_happy_2_animation" }
 		scale = 1.0
@@ -18,7 +18,7 @@ objectTypes = {
 	
 	pdxmesh = {
 		name = "portrait_robot_02_mesh"
-		file = "gfx/models/portraits/AI/robot_02_portrait.mesh"
+		file = "gfx/models/portraits/transAI/robot_02_portrait.mesh"
 		animation = { id = "idle"	type = "ai_01_happy_animation" }
 		animation = { id = "idle2"	type = "ai_01_happy_2_animation" }
 		scale = 1.0
@@ -26,7 +26,7 @@ objectTypes = {
 	
 	pdxmesh = {
 		name = "portrait_robot_03_mesh"
-		file = "gfx/models/portraits/AI/robot_03_portrait.mesh"
+		file = "gfx/models/portraits/transAI/robot_03_portrait.mesh"
 		animation = { id = "idle"	type = "ai_01_happy_animation" }
 		animation = { id = "idle2"	type = "ai_01_happy_2_animation" }
 		scale = 1.0
@@ -34,7 +34,7 @@ objectTypes = {
 	
 	pdxmesh = {
 		name = "AI_background_details_mesh"
-		file = "gfx/models/portraits/AI/AI_background_details.mesh"
+		file = "gfx/models/portraits/transAI/AI_background_details.mesh"
 		animation = { id = "idle_1"	type = "AI_background_details_idle_1_animation" }
 		animation = { id = "idle_2"	type = "AI_background_details_idle_2_animation" }
 		animation = { id = "idle_3"	type = "AI_background_details_idle_3_animation" }
@@ -42,8 +42,5 @@ objectTypes = {
 		animation = { id = "idle_5"	type = "AI_background_details_idle_5_animation" }
 		animation = { id = "idle_6"	type = "AI_background_details_idle_6_animation" }
 		scale = 1.0
-	}
-	
-	
-	
+	}	
 }
