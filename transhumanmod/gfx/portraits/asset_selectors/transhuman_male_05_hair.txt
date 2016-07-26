@@ -17,19 +17,19 @@ transhuman_male_hair_05 = {
 
 		default = "gfx/models/portraits/transhuman/transhuman_male_hair_black_style_01_transparent.dds"
 
-		random = {
-			list = {
-				"gfx/models/portraits/transhuman/transhuman_male_hair_pops_1.dds"
-				"gfx/models/portraits/transhuman/transhuman_male_hair_pops_2.dds"
-				"gfx/models/portraits/transhuman/transhuman_male_hair_pops_3.dds"
-				"gfx/models/portraits/transhuman/transhuman_male_hair_pops_4.dds"
-				"gfx/models/portraits/transhuman/transhuman_male_hair_pops_5.dds"
-				"gfx/models/portraits/transhuman/transhuman_male_hair_pops_6.dds"
-				"gfx/models/portraits/transhuman/transhuman_male_hair_pops_7.dds"
+	#	random = {
+	#		list = {
+	#			"gfx/models/portraits/transhuman/transhuman_male_hair_pops_1.dds"
+	#			"gfx/models/portraits/transhuman/transhuman_male_hair_pops_2.dds"
+	#			"gfx/models/portraits/transhuman/transhuman_male_hair_pops_3.dds"
+	#			"gfx/models/portraits/transhuman/transhuman_male_hair_pops_4.dds"
+	#			"gfx/models/portraits/transhuman/transhuman_male_hair_pops_5.dds"
+	#			"gfx/models/portraits/transhuman/transhuman_male_hair_pops_6.dds"
+	#			"gfx/models/portraits/transhuman/transhuman_male_hair_pops_7.dds"
 
 
-			}
-		}
+	#		}
+	#	}
 	}
 
 

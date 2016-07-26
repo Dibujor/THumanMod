@@ -16,8 +16,12 @@ transhuman_male_hair_01 = {
 	pop = { #for a specific pop
 
     default = "gfx/models/portraits/transhuman/transhuman_male_hair_black_style_01_transparent.dds"
-
-		random = { # This should appear always when planet is arctic
+	
+	#[NEW HAIRS]
+		
+		# ARTIC HOOD - Should appear always when planet is Artic
+	
+		random = { 
 			trigger = { 
 				planet = { is_planet_class = pc_arctic } 
 			}
@@ -25,11 +29,11 @@ transhuman_male_hair_01 = {
 				"gfx/models/portraits/transhuman/transhuman_male_hair_pops_artic.dds" 
 			} 
 		}
-		
-		random = { #Should take a random one from these ones always when planet is desert
-			trigger = {
-				planet = { is_planet_class = pc_desert }
-			}
+		#DESERT MASK - Take a random one from these ones always when planet is desert
+		random = { 
+		trigger = {
+			planet = { is_planet_class = pc_desert }
+		}
 
 			list = {
 
@@ -42,18 +46,9 @@ transhuman_male_hair_01 = {
 				"gfx/models/portraits/transhuman/transhuman_male_hair_pops_desert7.dds"
 
 			}
-
 		}
-		
+		# [/NEW HAIRS]
 		random = {
-			trigger = { 
-				NOT = { 
-					OR = {
-						planet = { is_planet_class = pc_desert }
-						planet = { is_planet_class = pc_arctic }
-					}
-				}
-			}
 			list = {
 				"gfx/models/portraits/transhuman/transhuman_male_hair_pops_1.dds"
 				"gfx/models/portraits/transhuman/transhuman_male_hair_pops_2.dds"
