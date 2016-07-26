@@ -1,31 +1,31 @@
 # This is a template which multiple species can use.
 
 transhuman_male_hair_05 = {
-	default = "gfx/models/portraits/transhuman/human_male_hair_leaders_black_8.dds"
+	default = "gfx/models/portraits/transhuman/transhuman_male_hair_leaders_black_8.dds"
 
 	game_setup = {#will run with a limited country scope. species and government is set but the country does not actually exist
-		default = "gfx/models/portraits/transhuman/human_male_hair_leaders_black_8.dds"
+		default = "gfx/models/portraits/transhuman/transhuman_male_hair_leaders_black_8.dds"
 	}
 
 	#species scope
 	species = { #generic portrait for a species
-		default = "gfx/models/portraits/transhuman/human_male_hair_leaders_black_8.dds"
+		default = "gfx/models/portraits/transhuman/transhuman_male_hair_leaders_black_8.dds"
 	}
 
     #pop scope
 	pop = { #for a specific pop
 
-		default = "gfx/models/portraits/transhuman/human_male_hair_black_style_01_transparent.dds"
+		default = "gfx/models/portraits/transhuman/transhuman_male_hair_black_style_01_transparent.dds"
 
 		random = {
 			list = {
-				"gfx/models/portraits/transhuman/human_male_hair_pops_1.dds"
-				"gfx/models/portraits/transhuman/human_male_hair_pops_2.dds"
-				"gfx/models/portraits/transhuman/human_male_hair_pops_3.dds"
-				"gfx/models/portraits/transhuman/human_male_hair_pops_4.dds"
-				"gfx/models/portraits/transhuman/human_male_hair_pops_5.dds"
-				"gfx/models/portraits/transhuman/human_male_hair_pops_6.dds"
-				"gfx/models/portraits/transhuman/human_male_hair_pops_7.dds"
+				"gfx/models/portraits/transhuman/transhuman_male_hair_pops_1.dds"
+				"gfx/models/portraits/transhuman/transhuman_male_hair_pops_2.dds"
+				"gfx/models/portraits/transhuman/transhuman_male_hair_pops_3.dds"
+				"gfx/models/portraits/transhuman/transhuman_male_hair_pops_4.dds"
+				"gfx/models/portraits/transhuman/transhuman_male_hair_pops_5.dds"
+				"gfx/models/portraits/transhuman/transhuman_male_hair_pops_6.dds"
+				"gfx/models/portraits/transhuman/transhuman_male_hair_pops_7.dds"
 
 
 			}
@@ -41,10 +41,10 @@ transhuman_male_hair_05 = {
 		random = {
 			trigger = { leader_class = general }
 			list = {
-				"gfx/models/portraits/transhuman/human_male_hair_leaders_black_10.dds"
-				"gfx/models/portraits/transhuman/human_male_hair_leaders_black_6.dds"
-				"gfx/models/portraits/transhuman/human_male_hair_leaders_black_8.dds"
-				"gfx/models/portraits/transhuman/human_male_hair_leaders_black_9.dds"
+				"gfx/models/portraits/transhuman/transhuman_male_hair_leaders_black_10.dds"
+				"gfx/models/portraits/transhuman/transhuman_male_hair_leaders_black_6.dds"
+				"gfx/models/portraits/transhuman/transhuman_male_hair_leaders_black_8.dds"
+				"gfx/models/portraits/transhuman/transhuman_male_hair_leaders_black_9.dds"
 			}
 		}
 
@@ -52,10 +52,10 @@ transhuman_male_hair_05 = {
 			trigger = { leader_class = admiral }
 			list = {
 
-				"gfx/models/portraits/transhuman/human_male_hair_leaders_black_10.dds"
-				"gfx/models/portraits/transhuman/human_male_hair_leaders_black_5.dds"
-				"gfx/models/portraits/transhuman/human_male_hair_leaders_black_8.dds"
-				"gfx/models/portraits/transhuman/human_male_hair_leaders_black_9.dds"
+				"gfx/models/portraits/transhuman/transhuman_male_hair_leaders_black_10.dds"
+				"gfx/models/portraits/transhuman/transhuman_male_hair_leaders_black_5.dds"
+				"gfx/models/portraits/transhuman/transhuman_male_hair_leaders_black_8.dds"
+				"gfx/models/portraits/transhuman/transhuman_male_hair_leaders_black_9.dds"
 			}
 		}
 
@@ -63,36 +63,36 @@ transhuman_male_hair_05 = {
 			trigger = { leader_class = scientist }
 			list = {
 
-				"gfx/models/portraits/transhuman/human_male_hair_leaders_black_1.dds"
-				"gfx/models/portraits/transhuman/human_male_hair_leaders_black_2.dds"
-				"gfx/models/portraits/transhuman/human_male_hair_leaders_black_3.dds"
-				"gfx/models/portraits/transhuman/human_male_hair_leaders_black_4.dds"
-				"gfx/models/portraits/transhuman/human_male_hair_leaders_black_5.dds"
-				"gfx/models/portraits/transhuman/human_male_hair_leaders_black_6.dds"
-				"gfx/models/portraits/transhuman/human_male_hair_leaders_black_7.dds"
-				"gfx/models/portraits/transhuman/human_male_hair_leaders_black_8.dds"
-				"gfx/models/portraits/transhuman/human_male_hair_leaders_black_9.dds"
+				"gfx/models/portraits/transhuman/transhuman_male_hair_leaders_black_1.dds"
+				"gfx/models/portraits/transhuman/transhuman_male_hair_leaders_black_2.dds"
+				"gfx/models/portraits/transhuman/transhuman_male_hair_leaders_black_3.dds"
+				"gfx/models/portraits/transhuman/transhuman_male_hair_leaders_black_4.dds"
+				"gfx/models/portraits/transhuman/transhuman_male_hair_leaders_black_5.dds"
+				"gfx/models/portraits/transhuman/transhuman_male_hair_leaders_black_6.dds"
+				"gfx/models/portraits/transhuman/transhuman_male_hair_leaders_black_7.dds"
+				"gfx/models/portraits/transhuman/transhuman_male_hair_leaders_black_8.dds"
+				"gfx/models/portraits/transhuman/transhuman_male_hair_leaders_black_9.dds"
 			}
 		}
 
 		random = {
 			trigger = { leader_class = governor }
 			list = {
-				"gfx/models/portraits/transhuman/human_male_hair_leaders_black_1.dds"
-				"gfx/models/portraits/transhuman/human_male_hair_leaders_black_2.dds"
-				"gfx/models/portraits/transhuman/human_male_hair_leaders_black_3.dds"
-				"gfx/models/portraits/transhuman/human_male_hair_leaders_black_4.dds"
-				"gfx/models/portraits/transhuman/human_male_hair_leaders_black_5.dds"
-				"gfx/models/portraits/transhuman/human_male_hair_leaders_black_6.dds"
-				"gfx/models/portraits/transhuman/human_male_hair_leaders_black_7.dds"
-				"gfx/models/portraits/transhuman/human_male_hair_leaders_black_8.dds"
+				"gfx/models/portraits/transhuman/transhuman_male_hair_leaders_black_1.dds"
+				"gfx/models/portraits/transhuman/transhuman_male_hair_leaders_black_2.dds"
+				"gfx/models/portraits/transhuman/transhuman_male_hair_leaders_black_3.dds"
+				"gfx/models/portraits/transhuman/transhuman_male_hair_leaders_black_4.dds"
+				"gfx/models/portraits/transhuman/transhuman_male_hair_leaders_black_5.dds"
+				"gfx/models/portraits/transhuman/transhuman_male_hair_leaders_black_6.dds"
+				"gfx/models/portraits/transhuman/transhuman_male_hair_leaders_black_7.dds"
+				"gfx/models/portraits/transhuman/transhuman_male_hair_leaders_black_8.dds"
 			}
 		}
 	}
 
 	#leader scope
 	ruler = { #for rulers
-		#default = "gfx/models/portraits/transhuman/human_male_clothes_ruler.dds"
+		#default = "gfx/models/portraits/transhuman/transhuman_male_clothes_ruler.dds"
 
 		random = {
 			trigger = {
@@ -109,10 +109,10 @@ transhuman_male_hair_05 = {
 
 			list = {
 
-				"gfx/models/portraits/transhuman/human_male_hair_leaders_black_10.dds"
-				"gfx/models/portraits/transhuman/human_male_hair_leaders_black_6.dds"
-				"gfx/models/portraits/transhuman/human_male_hair_leaders_black_8.dds"
-				"gfx/models/portraits/transhuman/human_male_hair_leaders_black_9.dds"
+				"gfx/models/portraits/transhuman/transhuman_male_hair_leaders_black_10.dds"
+				"gfx/models/portraits/transhuman/transhuman_male_hair_leaders_black_6.dds"
+				"gfx/models/portraits/transhuman/transhuman_male_hair_leaders_black_8.dds"
+				"gfx/models/portraits/transhuman/transhuman_male_hair_leaders_black_9.dds"
 			}
 		}
 
@@ -127,7 +127,7 @@ transhuman_male_hair_05 = {
 			}
 
 			list = {
-				"gfx/models/portraits/transhuman/human_male_hair_leaders_black_3.dds"
+				"gfx/models/portraits/transhuman/transhuman_male_hair_leaders_black_3.dds"
 			}
 		}
 
@@ -165,14 +165,14 @@ transhuman_male_hair_05 = {
 			}
 
 			list = {
-				"gfx/models/portraits/transhuman/human_male_hair_leaders_black_1.dds"
-				"gfx/models/portraits/transhuman/human_male_hair_leaders_black_2.dds"
-				"gfx/models/portraits/transhuman/human_male_hair_leaders_black_3.dds"
-				"gfx/models/portraits/transhuman/human_male_hair_leaders_black_4.dds"
-				"gfx/models/portraits/transhuman/human_male_hair_leaders_black_5.dds"
-				"gfx/models/portraits/transhuman/human_male_hair_leaders_black_6.dds"
-				"gfx/models/portraits/transhuman/human_male_hair_leaders_black_7.dds"
-				"gfx/models/portraits/transhuman/human_male_hair_leaders_black_8.dds"
+				"gfx/models/portraits/transhuman/transhuman_male_hair_leaders_black_1.dds"
+				"gfx/models/portraits/transhuman/transhuman_male_hair_leaders_black_2.dds"
+				"gfx/models/portraits/transhuman/transhuman_male_hair_leaders_black_3.dds"
+				"gfx/models/portraits/transhuman/transhuman_male_hair_leaders_black_4.dds"
+				"gfx/models/portraits/transhuman/transhuman_male_hair_leaders_black_5.dds"
+				"gfx/models/portraits/transhuman/transhuman_male_hair_leaders_black_6.dds"
+				"gfx/models/portraits/transhuman/transhuman_male_hair_leaders_black_7.dds"
+				"gfx/models/portraits/transhuman/transhuman_male_hair_leaders_black_8.dds"
 
 			}
 		}

@@ -1,31 +1,31 @@
 # This is a template which multiple species can use. 
   
 transhuman_female_hair_02 = {
-	default = "gfx/models/portraits/transhuman/human_female_hair_DARK_05.dds"
+	default = "gfx/models/portraits/transhuman/transhuman_female_hair_DARK_05.dds"
 	
 	game_setup = {#will run with a limited country scope. species and government is set but the country does not actually exist
-		default = "gfx/models/portraits/transhuman/human_female_hair_DARK_05.dds"
+		default = "gfx/models/portraits/transhuman/transhuman_female_hair_DARK_05.dds"
 	}
 	
 	#species scope
 	species = { #generic portrait for a species
-		default = "gfx/models/portraits/transhuman/human_female_hair_DARK_05.dds"
+		default = "gfx/models/portraits/transhuman/transhuman_female_hair_DARK_05.dds"
 	}
 	
 	#pop scope
 	pop = { #for a specific pop
 	
-		default = "gfx/models/portraits/transhuman/human_female_hair_transparent.dds"
+		default = "gfx/models/portraits/transhuman/transhuman_female_hair_transparent.dds"
 
 		#random = {
 		#	list = {
-		#		"gfx/models/portraits/transhuman/human_female_hair_pops_1.dds"
-		#		"gfx/models/portraits/transhuman/human_female_hair_pops_2.dds"
-		#		"gfx/models/portraits/transhuman/human_female_hair_pops_3.dds"
-		#		"gfx/models/portraits/transhuman/human_female_hair_pops_4.dds"
-		#		"gfx/models/portraits/transhuman/human_female_hair_pops_5.dds"
-		#		"gfx/models/portraits/transhuman/human_female_hair_pops_6.dds"
-		#		"gfx/models/portraits/transhuman/human_female_hair_pops_7.dds"
+		#		"gfx/models/portraits/transhuman/transhuman_female_hair_pops_1.dds"
+		#		"gfx/models/portraits/transhuman/transhuman_female_hair_pops_2.dds"
+		#		"gfx/models/portraits/transhuman/transhuman_female_hair_pops_3.dds"
+		#		"gfx/models/portraits/transhuman/transhuman_female_hair_pops_4.dds"
+		#		"gfx/models/portraits/transhuman/transhuman_female_hair_pops_5.dds"
+		#		"gfx/models/portraits/transhuman/transhuman_female_hair_pops_6.dds"
+		#		"gfx/models/portraits/transhuman/transhuman_female_hair_pops_7.dds"
 		#		
 		#	}
 		#}	
@@ -40,31 +40,31 @@ transhuman_female_hair_02 = {
 		random = {
 			trigger = { leader_class = general }
 			list = {
-				"gfx/models/portraits/transhuman/human_female_hair_DARK_08.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_DARK_09.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_DARK_08.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_DARK_09.dds"
 			}
 		}		
 		
 		random = {
 			trigger = { leader_class = admiral }
 			list = {
-				"gfx/models/portraits/transhuman/human_female_hair_DARK_01.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_DARK_02.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_DARK_05.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_DARK_01.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_DARK_02.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_DARK_05.dds"
 			}
 		}	
 		
 		random = {
 			trigger = { leader_class = scientist }
 			list = {
-				"gfx/models/portraits/transhuman/human_female_hair_DARK_01.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_DARK_02.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_DARK_03.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_DARK_04.dds"  
-				"gfx/models/portraits/transhuman/human_female_hair_DARK_05.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_DARK_06.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_DARK_07.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_DARK_08.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_DARK_01.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_DARK_02.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_DARK_03.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_DARK_04.dds"  
+				"gfx/models/portraits/transhuman/transhuman_female_hair_DARK_05.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_DARK_06.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_DARK_07.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_DARK_08.dds"
 
 			}
 		}		
@@ -72,14 +72,14 @@ transhuman_female_hair_02 = {
 		random = {
 			trigger = { leader_class = governor }
 			list = {
-				"gfx/models/portraits/transhuman/human_female_hair_DARK_01.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_DARK_02.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_DARK_03.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_DARK_04.dds"  
-				"gfx/models/portraits/transhuman/human_female_hair_DARK_05.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_DARK_06.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_DARK_07.dds"
-			#	"gfx/models/portraits/transhuman/human_female_hair_DARK_08.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_DARK_01.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_DARK_02.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_DARK_03.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_DARK_04.dds"  
+				"gfx/models/portraits/transhuman/transhuman_female_hair_DARK_05.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_DARK_06.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_DARK_07.dds"
+			#	"gfx/models/portraits/transhuman/transhuman_female_hair_DARK_08.dds"
 			}
 		}
 	}
@@ -101,8 +101,8 @@ transhuman_female_hair_02 = {
 			}
 				
 			list = {
-				"gfx/models/portraits/transhuman/human_female_hair_DARK_08.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_DARK_09.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_DARK_08.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_DARK_09.dds"
 			}
 		}		
 		
@@ -117,8 +117,8 @@ transhuman_female_hair_02 = {
 			}	
 			
 			list = {
-				"gfx/models/portraits/transhuman/human_female_hair_DARK_05.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_DARK_06.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_DARK_05.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_DARK_06.dds"
 			}
 		}		
 		
@@ -156,14 +156,14 @@ transhuman_female_hair_02 = {
 			}
 			
 			list = {
-				"gfx/models/portraits/transhuman/human_female_hair_DARK_01.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_DARK_02.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_DARK_03.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_DARK_04.dds"  
-				"gfx/models/portraits/transhuman/human_female_hair_DARK_05.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_DARK_06.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_DARK_07.dds"
-			#	"gfx/models/portraits/transhuman/human_female_hair_DARK_08.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_DARK_01.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_DARK_02.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_DARK_03.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_DARK_04.dds"  
+				"gfx/models/portraits/transhuman/transhuman_female_hair_DARK_05.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_DARK_06.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_DARK_07.dds"
+			#	"gfx/models/portraits/transhuman/transhuman_female_hair_DARK_08.dds"
 			}
 		}
 	}

@@ -1,21 +1,21 @@
 # This is a template which multiple species can use. 
   
 transhuman_female_hair_10 = {
-	default = "gfx/models/portraits/transhuman/human_female_hair_AFRICAN_01.dds"
+	default = "gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_01.dds"
 	
 	game_setup = {#will run with a limited country scope. species and government is set but the country does not actually exist
-		default = "gfx/models/portraits/transhuman/human_female_hair_AFRICAN_01.dds"
+		default = "gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_01.dds"
 	}
 	
 	#species scope
 	species = { #generic portrait for a species
-		default = "gfx/models/portraits/transhuman/human_female_hair_AFRICAN_01.dds"
+		default = "gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_01.dds"
 	}
 	
 	#pop scope
 	pop = { #for a specific pop
 	
-		default = "gfx/models/portraits/transhuman/human_female_hair_transparent.dds"
+		default = "gfx/models/portraits/transhuman/transhuman_female_hair_transparent.dds"
 		
 		#[NEW HAIRS]
 		
@@ -50,13 +50,13 @@ transhuman_female_hair_10 = {
 		
 		random = {
 			list = {
-				"gfx/models/portraits/transhuman/human_female_hair_pops_1.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_pops_2.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_pops_3.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_pops_4.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_pops_5.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_pops_6.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_pops_7.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_pops_1.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_pops_2.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_pops_3.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_pops_4.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_pops_5.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_pops_6.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_pops_7.dds"
 				
 			}
 		}	
@@ -71,18 +71,18 @@ transhuman_female_hair_10 = {
 		random = {
 			trigger = { leader_class = general }
 			list = {
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_MilitaryG_04.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_MilitaryG_05.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_MilitaryG_06.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_MilitaryG_04.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_MilitaryG_05.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_MilitaryG_06.dds"
 			}
 		}		
 		
 		random = {
 			trigger = { leader_class = admiral }
 			list = {
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_MilitaryG_01.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_MilitaryG_02.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_MilitaryG_03.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_MilitaryG_01.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_MilitaryG_02.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_MilitaryG_03.dds"
 			}
 		}	
 		
@@ -91,53 +91,53 @@ transhuman_female_hair_10 = {
 			list = {
 				#	SCIENCE GADGETS / IMPLANTS DARK HAIR
 				
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_ScienceG1_01.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_ScienceG1_02.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_ScienceG1_03.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_ScienceG1_04.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_ScienceG1_05.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_ScienceG1_06.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_ScienceG1_07.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_ScienceG1_08.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_ScienceG1_09.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_ScienceG1_10.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_ScienceG1_11.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_ScienceG1_01.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_ScienceG1_02.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_ScienceG1_03.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_ScienceG1_04.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_ScienceG1_05.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_ScienceG1_06.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_ScienceG1_07.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_ScienceG1_08.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_ScienceG1_09.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_ScienceG1_10.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_ScienceG1_11.dds"
 				
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_ScienceG2_01.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_ScienceG2_02.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_ScienceG2_03.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_ScienceG2_04.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_ScienceG2_05.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_ScienceG2_06.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_ScienceG2_07.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_ScienceG2_08.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_ScienceG2_09.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_ScienceG2_10.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_ScienceG2_11.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_ScienceG2_01.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_ScienceG2_02.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_ScienceG2_03.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_ScienceG2_04.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_ScienceG2_05.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_ScienceG2_06.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_ScienceG2_07.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_ScienceG2_08.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_ScienceG2_09.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_ScienceG2_10.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_ScienceG2_11.dds"
 				
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_ScienceG3_01.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_ScienceG3_02.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_ScienceG3_03.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_ScienceG3_04.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_ScienceG3_05.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_ScienceG3_06.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_ScienceG3_07.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_ScienceG3_08.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_ScienceG3_09.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_ScienceG3_10.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_ScienceG3_11.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_ScienceG3_01.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_ScienceG3_02.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_ScienceG3_03.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_ScienceG3_04.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_ScienceG3_05.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_ScienceG3_06.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_ScienceG3_07.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_ScienceG3_08.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_ScienceG3_09.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_ScienceG3_10.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_ScienceG3_11.dds"
 				
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_ScienceG4_01.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_ScienceG4_02.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_ScienceG4_03.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_ScienceG4_04.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_ScienceG4_05.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_ScienceG4_06.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_ScienceG4_07.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_ScienceG4_08.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_ScienceG4_09.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_ScienceG4_10.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_ScienceG4_11.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_ScienceG4_01.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_ScienceG4_02.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_ScienceG4_03.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_ScienceG4_04.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_ScienceG4_05.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_ScienceG4_06.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_ScienceG4_07.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_ScienceG4_08.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_ScienceG4_09.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_ScienceG4_10.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_ScienceG4_11.dds"
 
 			}
 		}		
@@ -145,18 +145,18 @@ transhuman_female_hair_10 = {
 		random = {
 			trigger = { leader_class = governor }
 			list = {
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_01.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_02.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_03.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_04.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_05.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_06.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_07.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_08.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_09.dds"
-			#	"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_10.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_11.dds"
-			#	"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_12.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_01.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_02.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_03.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_04.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_05.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_06.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_07.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_08.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_09.dds"
+			#	"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_10.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_11.dds"
+			#	"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_12.dds"
 			}
 		}
 	}
@@ -178,9 +178,9 @@ transhuman_female_hair_10 = {
 			}
 				
 			list = {
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_MilitaryG_04.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_MilitaryG_05.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_MilitaryG_06.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_MilitaryG_04.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_MilitaryG_05.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_MilitaryG_06.dds"
 			}
 		}		
 		
@@ -195,8 +195,8 @@ transhuman_female_hair_10 = {
 			}	
 			
 			list = {
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_01.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_04.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_01.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_04.dds"
 			}
 		}		
 		
@@ -234,18 +234,18 @@ transhuman_female_hair_10 = {
 			}
 			
 			list = {
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_01.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_02.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_03.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_04.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_05.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_06.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_07.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_08.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_09.dds"
-			#	"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_10.dds"
-				"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_11.dds"
-			#	"gfx/models/portraits/transhuman/human_female_hair_AFRICAN_12.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_01.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_02.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_03.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_04.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_05.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_06.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_07.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_08.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_09.dds"
+			#	"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_10.dds"
+				"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_11.dds"
+			#	"gfx/models/portraits/transhuman/transhuman_female_hair_AFRICAN_12.dds"
 			}
 		}
 	}

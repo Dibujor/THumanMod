@@ -3,4 +3,4 @@ path="mod/transhumanmod"
 tags={
 	"Graphics"
 }
-supported_version="1.1.x"
+supported_version="1.2.x"
