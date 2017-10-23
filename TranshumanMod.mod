@@ -1,6 +1,7 @@
 name="Transhumans Mod"
 path="mod/transhumanmod"
 tags={
-	"Graphics"
+	"Human"
+	"Species"
 }
-supported_version="1.2.x"
+supported_version="1.8.x"
