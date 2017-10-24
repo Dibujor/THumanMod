@@ -3,7 +3,7 @@ TRANSHUMAN = {
 	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
 	randomized = no
 	portraits = {
-				"transhuman"
+		"transhuman"
 	}
 	graphical_culture = transhuman_01
 	move_pop_sound_effect = "moving_pop_confirmation"
@@ -22,7 +22,7 @@ TRANSROBOT = {
 	leader_age_max = 10
 
 	portraits = {
-				"transrobot1"
+		"transrobot1"
 	}
 	
 	graphical_culture = transhuman_01

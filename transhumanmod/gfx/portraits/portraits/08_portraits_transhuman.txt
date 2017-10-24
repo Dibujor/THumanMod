@@ -1,45 +1,35 @@
-##############################################################
-###	PORTRAITS SETTINGS
-###
-### Which portraits are used is set in 
-### common\species_classes\00_species_classes.txt
-###
-###	This file configures how portraits and planet backgrounds are built.
-###	Default position orientation is lower left.
-##############################################################
-
 portraits = {
 
 	# Human Female
-	transhuman_female_01 = {	entity = "portrait_human_female_01_entity"	   clothes_selector = "mammalian_transhuman_female_clothes_01" hair_selector = "transhuman_female_hair_01"	greeting_sound = "human_female_greetings_03" character_textures = "gfx/models/portraits/transhuman/transhuman_female_body_01.dds"}
-	transhuman_female_02 = {	entity = "portrait_human_female_02_entity"	   clothes_selector = "mammalian_transhuman_female_clothes_01" hair_selector = "transhuman_female_hair_02"	greeting_sound = "human_female_greetings_04" character_textures = "gfx/models/portraits/transhuman/transhuman_female_body_02.dds"}
-	transhuman_female_03 = {	entity = "portrait_human_female_03_entity"	   clothes_selector = "mammalian_transhuman_female_clothes_01" hair_selector = "transhuman_female_hair_03"	greeting_sound = "human_female_greetings_05" character_textures = "gfx/models/portraits/transhuman/transhuman_female_body_03.dds"}	
-	transhuman_female_04 = {	entity = "portrait_human_female_04_entity"	   clothes_selector = "mammalian_transhuman_female_clothes_01" 	hair_selector = "transhuman_female_hair_04"	greeting_sound = "human_female_greetings_01" character_textures = "gfx/models/portraits/transhuman/transhuman_female_body_04.dds"}
-	transhuman_female_05 = {	entity = "portrait_human_female_05_entity"	   clothes_selector = "mammalian_transhuman_female_clothes_01" 	hair_selector = "transhuman_female_hair_05"	greeting_sound = "human_female_greetings_02" character_textures = "gfx/models/portraits/transhuman/transhuman_female_body_05.dds"}
+	transhuman_female_01 = {	entity = "portrait_human_female_01_entity"	   clothes_selector = "mammalian_transhuman_female_clothes_01" hair_selector = "transhuman_female_hair_01"	greeting_sound = "human_female_greetings_03" character_textures = {"gfx/models/portraits/transhuman/transhuman_female_body_01.dds"}}
+	transhuman_female_02 = {	entity = "portrait_human_female_02_entity"	   clothes_selector = "mammalian_transhuman_female_clothes_01" hair_selector = "transhuman_female_hair_02"	greeting_sound = "human_female_greetings_04" character_textures = {"gfx/models/portraits/transhuman/transhuman_female_body_02.dds"}}
+	transhuman_female_03 = {	entity = "portrait_human_female_03_entity"	   clothes_selector = "mammalian_transhuman_female_clothes_01" hair_selector = "transhuman_female_hair_03"	greeting_sound = "human_female_greetings_05" character_textures = {"gfx/models/portraits/transhuman/transhuman_female_body_03.dds"}}	
+	transhuman_female_04 = {	entity = "portrait_human_female_04_entity"	   clothes_selector = "mammalian_transhuman_female_clothes_01" 	hair_selector = "transhuman_female_hair_04"	greeting_sound = "human_female_greetings_01" character_textures = {"gfx/models/portraits/transhuman/transhuman_female_body_04.dds"}}
+	transhuman_female_05 = {	entity = "portrait_human_female_05_entity"	   clothes_selector = "mammalian_transhuman_female_clothes_01" 	hair_selector = "transhuman_female_hair_05"	greeting_sound = "human_female_greetings_02" character_textures = {"gfx/models/portraits/transhuman/transhuman_female_body_05.dds"}}
 	
 	#Human Female with Implants	
-	transhuman_female_06 = {	entity = "portrait_human_female_01_entity"	   clothes_selector = "mammalian_transhuman_female_clothes_01" 	hair_selector = "transhuman_female_hair_06"	greeting_sound = "human_female_greetings_03" character_textures = "gfx/models/portraits/transhuman/transhuman_female_body_01.dds"}
-	transhuman_female_07 = {	entity = "portrait_human_female_02_entity"	   clothes_selector = "mammalian_transhuman_female_clothes_01" 	hair_selector = "transhuman_female_hair_07"	greeting_sound = "human_female_greetings_04" character_textures = "gfx/models/portraits/transhuman/transhuman_female_body_02.dds"}
-	transhuman_female_08 = {	entity = "portrait_human_female_03_entity"	   clothes_selector = "mammalian_transhuman_female_clothes_01" 	hair_selector = "transhuman_female_hair_08"	greeting_sound = "human_female_greetings_05" character_textures = "gfx/models/portraits/transhuman/transhuman_female_body_03.dds"}
-	transhuman_female_09 = {	entity = "portrait_human_female_04_entity"	   clothes_selector = "mammalian_transhuman_female_clothes_01" 	hair_selector = "transhuman_female_hair_09"	greeting_sound = "human_female_greetings_01" character_textures = "gfx/models/portraits/transhuman/transhuman_female_body_04.dds"}
-	transhuman_female_10 = {	entity = "portrait_human_female_05_entity"	   clothes_selector = "mammalian_transhuman_female_clothes_01" 	hair_selector = "transhuman_female_hair_10"	greeting_sound = "human_female_greetings_02" character_textures = "gfx/models/portraits/transhuman/transhuman_female_body_05.dds"}
+	transhuman_female_06 = {	entity = "portrait_human_female_01_entity"	   clothes_selector = "mammalian_transhuman_female_clothes_01" 	hair_selector = "transhuman_female_hair_06"	greeting_sound = "human_female_greetings_03" character_textures = {"gfx/models/portraits/transhuman/transhuman_female_body_01.dds"}}
+	transhuman_female_07 = {	entity = "portrait_human_female_02_entity"	   clothes_selector = "mammalian_transhuman_female_clothes_01" 	hair_selector = "transhuman_female_hair_07"	greeting_sound = "human_female_greetings_04" character_textures = {"gfx/models/portraits/transhuman/transhuman_female_body_02.dds"}}
+	transhuman_female_08 = {	entity = "portrait_human_female_03_entity"	   clothes_selector = "mammalian_transhuman_female_clothes_01" 	hair_selector = "transhuman_female_hair_08"	greeting_sound = "human_female_greetings_05" character_textures = {"gfx/models/portraits/transhuman/transhuman_female_body_03.dds"}}
+	transhuman_female_09 = {	entity = "portrait_human_female_04_entity"	   clothes_selector = "mammalian_transhuman_female_clothes_01" 	hair_selector = "transhuman_female_hair_09"	greeting_sound = "human_female_greetings_01" character_textures = {"gfx/models/portraits/transhuman/transhuman_female_body_04.dds"}}
+	transhuman_female_10 = {	entity = "portrait_human_female_05_entity"	   clothes_selector = "mammalian_transhuman_female_clothes_01" 	hair_selector = "transhuman_female_hair_10"	greeting_sound = "human_female_greetings_02" character_textures = {"gfx/models/portraits/transhuman/transhuman_female_body_05.dds"}}
 	
 	#Human Male	
-	transhuman_male_01 = {	entity = "portrait_human_male_01_entity"	clothes_selector = "mammalian_transhuman_male_clothes_01" hair_selector = "transhuman_male_hair_01"	greeting_sound = "human_male_greetings_03" character_textures = "gfx/models/portraits/transhuman/transhuman_male_body_01.dds"}	
-	transhuman_male_02 = {	entity = "portrait_human_male_02_entity"	clothes_selector = "mammalian_transhuman_male_clothes_01" hair_selector = "transhuman_male_hair_02"	greeting_sound = "human_male_greetings_04" character_textures = "gfx/models/portraits/transhuman/transhuman_male_body_02.dds"}
-	transhuman_male_03 = {	entity = "portrait_human_male_03_entity"	clothes_selector = "mammalian_transhuman_male_clothes_01" hair_selector = "transhuman_male_hair_03"	greeting_sound = "human_male_greetings_05" character_textures = "gfx/models/portraits/transhuman/transhuman_male_body_03.dds"}		
-	transhuman_male_04 = {	entity = "portrait_human_male_04_entity"	clothes_selector = "mammalian_transhuman_male_clothes_01" hair_selector = "transhuman_male_hair_04"	greeting_sound = "human_male_greetings_01" character_textures = "gfx/models/portraits/transhuman/transhuman_male_body_04.dds"}
-	transhuman_male_05 = {	entity = "portrait_human_male_05_entity"	clothes_selector = "mammalian_transhuman_male_clothes_01" hair_selector = "transhuman_male_hair_05"	greeting_sound = "human_male_greetings_02" character_textures = "gfx/models/portraits/transhuman/transhuman_male_body_05.dds"}
+	transhuman_male_01 = {	entity = "portrait_human_male_01_entity"	clothes_selector = "mammalian_transhuman_male_clothes_01" hair_selector = "transhuman_male_hair_01"	greeting_sound = "human_male_greetings_03" character_textures = {"gfx/models/portraits/transhuman/transhuman_male_body_01.dds"}}	
+	transhuman_male_02 = {	entity = "portrait_human_male_02_entity"	clothes_selector = "mammalian_transhuman_male_clothes_01" hair_selector = "transhuman_male_hair_02"	greeting_sound = "human_male_greetings_04" character_textures = {"gfx/models/portraits/transhuman/transhuman_male_body_02.dds"}}
+	transhuman_male_03 = {	entity = "portrait_human_male_03_entity"	clothes_selector = "mammalian_transhuman_male_clothes_01" hair_selector = "transhuman_male_hair_03"	greeting_sound = "human_male_greetings_05" character_textures = {"gfx/models/portraits/transhuman/transhuman_male_body_03.dds"}}		
+	transhuman_male_04 = {	entity = "portrait_human_male_04_entity"	clothes_selector = "mammalian_transhuman_male_clothes_01" hair_selector = "transhuman_male_hair_04"	greeting_sound = "human_male_greetings_01" character_textures = {"gfx/models/portraits/transhuman/transhuman_male_body_04.dds"}}
+	transhuman_male_05 = {	entity = "portrait_human_male_05_entity"	clothes_selector = "mammalian_transhuman_male_clothes_01" hair_selector = "transhuman_male_hair_05"	greeting_sound = "human_male_greetings_02" character_textures = {"gfx/models/portraits/transhuman/transhuman_male_body_05.dds"}}
 	
 	#Human Male with Implants
-	transhuman_male_06 = {	entity = "portrait_human_male_01_entity"	clothes_selector = "mammalian_transhuman_male_clothes_01" hair_selector = "transhuman_male_hair_01"	greeting_sound = "human_male_greetings_03" character_textures = "gfx/models/portraits/transhuman/transhuman_male_body_01.dds"}
-	transhuman_male_07 = {	entity = "portrait_human_male_02_entity"	clothes_selector = "mammalian_transhuman_male_clothes_01" hair_selector = "transhuman_male_hair_02"	greeting_sound = "human_male_greetings_04" character_textures = "gfx/models/portraits/transhuman/transhuman_male_body_02.dds"}
-	transhuman_male_08 = {	entity = "portrait_human_male_03_entity"	clothes_selector = "mammalian_transhuman_male_clothes_01" hair_selector = "transhuman_male_hair_03"	greeting_sound = "human_male_greetings_05" character_textures = "gfx/models/portraits/transhuman/transhuman_male_body_03.dds"}	
-	transhuman_male_09 = {	entity = "portrait_human_male_04_entity"	clothes_selector = "mammalian_transhuman_male_clothes_01" hair_selector = "transhuman_male_hair_04"	greeting_sound = "human_male_greetings_01" character_textures = "gfx/models/portraits/transhuman/transhuman_male_body_04.dds"}
-	transhuman_male_10 = {	entity = "portrait_human_male_05_entity"	clothes_selector = "mammalian_transhuman_male_clothes_01" hair_selector = "transhuman_male_hair_05"	greeting_sound = "human_male_greetings_02" character_textures = "gfx/models/portraits/transhuman/transhuman_male_body_05.dds"}
+	transhuman_male_06 = {	entity = "portrait_human_male_01_entity"	clothes_selector = "mammalian_transhuman_male_clothes_01" hair_selector = "transhuman_male_hair_01"	greeting_sound = "human_male_greetings_03" character_textures = {"gfx/models/portraits/transhuman/transhuman_male_body_01.dds"}}
+	transhuman_male_07 = {	entity = "portrait_human_male_02_entity"	clothes_selector = "mammalian_transhuman_male_clothes_01" hair_selector = "transhuman_male_hair_02"	greeting_sound = "human_male_greetings_04" character_textures = {"gfx/models/portraits/transhuman/transhuman_male_body_02.dds"}}
+	transhuman_male_08 = {	entity = "portrait_human_male_03_entity"	clothes_selector = "mammalian_transhuman_male_clothes_01" hair_selector = "transhuman_male_hair_03"	greeting_sound = "human_male_greetings_05" character_textures = {"gfx/models/portraits/transhuman/transhuman_male_body_03.dds"}}	
+	transhuman_male_09 = {	entity = "portrait_human_male_04_entity"	clothes_selector = "mammalian_transhuman_male_clothes_01" hair_selector = "transhuman_male_hair_04"	greeting_sound = "human_male_greetings_01" character_textures = {"gfx/models/portraits/transhuman/transhuman_male_body_04.dds"}}
+	transhuman_male_10 = {	entity = "portrait_human_male_05_entity"	clothes_selector = "mammalian_transhuman_male_clothes_01" hair_selector = "transhuman_male_hair_05"	greeting_sound = "human_male_greetings_02" character_textures = {"gfx/models/portraits/transhuman/transhuman_male_body_05.dds"}}
 	
 	# Transhuman AI
-	transrobot 	= {	entity = "portrait_robot_01_entity" 						clothes_selector = "no_texture" hair_selector = "no_texture" greeting_sound = "robot_human_greetings" character_textures = 
+	transrobot1 	= {	entity = "portrait_robot_01_entity" 						clothes_selector = "no_texture" hair_selector = "no_texture" greeting_sound = "robot_human_greetings" character_textures = 
 	{"gfx/models/portraits/transAI/robot_transhuman_Tier1.dds" 
 	"gfx/models/portraits/transAI/robot_transhuman_Tier2.dds" 
 	"gfx/models/portraits/transAI/robot_transhuman_Tier3.dds"}]
@@ -47,7 +37,7 @@ portraits = {
 }
 
 portrait_groups = {
-	transhuman = {
+	transhuman= {
 		default = transhuman_female_04
 		game_setup = { #will run with a limited country scope. species and government is set but the country does not actually exist
 			add = {

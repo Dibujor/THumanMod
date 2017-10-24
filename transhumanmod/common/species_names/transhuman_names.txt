@@ -1,0 +1,33 @@
+TRANSHUMAN = {
+	human = {
+		name = Human
+		plural = Humans
+		home_planet = Earth
+		home_system = Sol
+		name_list = "HUM3"
+	}	
+	trans = {
+		name = "Trans-Human"
+		plural =  "Trans-Humans"
+		home_planet = "Post-Earth"
+		home_system = Sol
+		name_list = "HUM3"
+	}	
+}
+TRANSROBOT = {
+	human = {
+		name = "Human-Bot"
+		plural = "Human-Bots"
+		home_planet = Earth
+		home_system = Sol
+		name_list = "HUM3"
+	}	
+	trans = {
+		name = "Trans-Human Bot"
+		plural =  "Trans-Human Bots"
+		home_planet = "Post-Earth"
+		home_system = Sol
+		name_list = "HUM3"
+	}	
+}
+
