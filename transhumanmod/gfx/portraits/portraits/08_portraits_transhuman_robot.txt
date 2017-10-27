@@ -1,0 +1,7 @@
+portraits = {
+	# Transhuman AI
+	transrobot1 	= {	entity = "portrait_robot_01_entity" 						clothes_selector = "no_texture" hair_selector = "no_texture" greeting_sound = "robot_human_greetings" character_textures = 
+	{"gfx/models/portraits/transAI/robot_transhuman_Tier1.dds" 
+	"gfx/models/portraits/transAI/robot_transhuman_Tier2.dds" 
+	"gfx/models/portraits/transAI/robot_transhuman_Tier3.dds"}]
+}
