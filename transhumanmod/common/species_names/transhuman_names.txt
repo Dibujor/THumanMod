@@ -7,10 +7,10 @@ TRANSHUMAN = {
 		name_list = "HUM3"
 	}	
 	trans = {
-		name = "Trans-Human"
-		plural =  "Trans-Humans"
-		home_planet = "Post-Earth"
-		home_system = Sol
+		name = "Transhuman"
+		plural =  "Transhumans"
+		home_planet = "Gaia"
+		home_system = Astra
 		name_list = "HUM3"
 	}	
 }
@@ -23,10 +23,10 @@ TRANSROBOT = {
 		name_list = "HUM3"
 	}	
 	trans = {
-		name = "Trans-Human Bot"
-		plural =  "Trans-Human Bots"
-		home_planet = "Post-Earth"
-		home_system = Sol
+		name = "Android"
+		plural =  "Androids"
+		home_planet = "Gaia"
+		home_system = Astra
 		name_list = "HUM3"
 	}	
 }
